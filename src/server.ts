@@ -1,3 +1,5 @@
 import { serverHttp } from "./app";
 
-serverHttp.listen(4000, () => console.log(" 🚕 Server is running on PORT 4000"));
+const Port = process.env.PORT;
+
+serverHttp.listen(Port, () => console.log(`🚕 Server is running on PORT${Port}`));

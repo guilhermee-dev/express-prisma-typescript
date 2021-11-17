@@ -38,4 +38,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ♥ by Rocketseat 👋🏻 &nbsp;[Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by Guilherme Queiroz 👋🏻 &nbsp;[Increva-se no canal](https://www.youtube.com/channel/UCQv7fH4f3vmzj6W3FKNMUdg)
